@@ -1,0 +1,26 @@
+  #conteneur
+  {
+    background-color:lightgrey;
+    opacity:0.8;
+    padding:15px;
+    z-index:10;
+    margin:0px;
+  }
+
+  #aide
+  {
+    position:absolute;
+    right:15px;
+    bottom:15px;
+    background-color:lightblue;
+    border-radius: 25px;
+    z-index:9;
+  }
+
+  #img_info
+  {
+    height: auto;
+    width: auto;
+    max-width: 30px;
+    max-height: 30px;
+  }

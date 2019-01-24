@@ -1,0 +1,141 @@
+#accueil
+{
+  background-color:#FFFFFF;
+}
+
+#bvn
+{
+  font-size: 70px;
+}
+
+#deuxboutons
+{
+  background-color: #13356D;
+  height: auto;
+  width: 45%;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+}
+
+#image_accueil
+{
+  width: 50%;
+  height: auto;
+}
+
+#HTML
+{
+  font-family: Arial;
+}
+
+#br, #RenseignerId, #RenseignerNNI, #RenseignerMDP, #MauvaisId, #SuccesId
+{
+	text-align: center;
+	display: none;
+}
+
+.gauche
+{
+  width: 20%;
+  text-align: left;
+  margin-left: 5px;
+}
+
+.milieu
+{
+  width: 60%;
+  text-align: center;
+}
+
+.droite
+{
+  width: 20%;
+  text-align: right;
+  margin-right: 5px;
+}
+
+#bouton_retour
+{
+  background-color: #13356D;
+  width: 35%;
+  height: auto;
+}
+
+#connexion, #valider
+{
+  background-color: #13356D;
+}
+
+#Image_index
+{
+  width: 40%;
+  height: auto;
+  margin-bottom: 50px;
+}
+
+#TableauAccueil
+{
+  width: 100%;
+  height: 150px;
+}
+
+.btn-group btn-group-justified
+{
+  vertical-align: middle;
+}
+
+#footer
+{
+  margin-top: 20px;
+  position: absolute;
+  bottom: 15px;
+  width: 100%;
+}
+
+#ligne1
+{
+  background-color: #6E6E6E;
+  font-weight: bold;
+}
+
+#Fiche
+{
+  width: 30px;
+  height: auto;
+}
+
+#Fiche2
+{
+  width: 30px;
+  height: auto;
+}
+
+#searchbar
+{
+  position:relative; 
+  width:1040px; 
+  height:auto;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.formulaire
+{
+  display:inline-block;
+}
+
+.formulaire .champ
+{
+  width:600px; height:35px;
+}
+
+.formulaire .bouton
+{ 
+  background-image: url("../Images/Search.png");
+  background-repeat: no-repeat;
+  width: 35px;
+  height: 35px;
+  padding: 0; 
+}

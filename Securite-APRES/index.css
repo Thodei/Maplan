@@ -1,0 +1,25 @@
+.form-control-borderless {
+    border: none !important;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#map
+{
+	border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
+
+.point
+{
+	position: absolute;
+	border-radius: 50%;
+	behavior: url(PIE.htc); /*IE8*/
+	width: 50px;
+	height: 50px;
+	background-image: radial-gradient(closest-side ellipse at center, rgb(255, 100, 100), rgb(255, 20, 20));
+	opacity:0.4;
+}
